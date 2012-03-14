@@ -1,5 +1,5 @@
 {
-  "name": "mysql",
+  "name": "mysql-mmx",
   "version": "0.9.6",
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
   "description": "A pure node.js JavaScript Client implementing the MySQL protocol.",
